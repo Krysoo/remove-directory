@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvEqcrzJX8qcfJFAJWUympK47jIdbmdT8kL/pK439zZrdR1WWa2WRsH9kb2kua/f2Cl3YNrzcbJPEynklSm7dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kryso\\Documents\\csharp-project\\csharp-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kryso\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
