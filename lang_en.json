@@ -1,0 +1,11 @@
+{
+    "welcomeMessage": "\n ////////////////////////////////////////////////////////////////////////// \n #                        APPLICATION REMOVER                           # \n # How it works?: Type below name of application you want to remove     # \n ////////////////////////////////////////////////////////////////////////// \n",
+    "findedFile": "Finded file ",
+    "isRightPath": "Is it a right path? (y/n)",
+    "isRightFile": "Do you really want to delete this file? (y/n) ",
+    "didntFindFile": "Cannot find file on C:/ partition, looking in D:/ partition",
+    "lookingForFile": "Looking for file....",
+    "findedAndDeleted": "Application finded and deleted ",
+    "didntDeleteFile": "Application was not removed ",
+    "location": "Location: "
+}

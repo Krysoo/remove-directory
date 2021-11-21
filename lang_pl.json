@@ -1,0 +1,11 @@
+{
+    "welcomeMessage": "\n ////////////////////////////////////////////////////////////////////////// \n #                      DEZINSTALACJA APLIKACJI                           # \n # Dzialanie programu: wpisz ponizej nazwe aplikacji ktora chcesz usunac  # \n ////////////////////////////////////////////////////////////////////////// \n",
+    "findedFile": "Znaleziono plik ",
+    "isRightPath": "Czy jest to wlasciwa sciezka? (y/n)",
+    "isRightFile": "Czy na pewno chcesz usunac program? (y/n) ",
+    "didntFindFile": "Nie znaleziono pliku na partycji C:/, wyszukiwanie na partycji D:/",
+    "lookingForFile": "Poszukiwanie danego programu...",
+    "findedAndDeleted": "Znaleziono oraz usunieto program ",
+    "didntDeleteFile": "Nie usunieto programu",
+    "location": "Lokalizacja: "
+}
